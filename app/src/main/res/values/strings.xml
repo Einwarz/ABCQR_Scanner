@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QR_Scanner</string>
+    <string name="Scan">Scan</string>
+    <string name="Open">Open Image</string>
+    <string name="Debug">Debug</string>
+    <string name="Next">Next</string>
+    <color name="red">#FF4C4C</color>
+</resources>
